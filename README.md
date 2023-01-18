@@ -1,6 +1,5 @@
  Hi there 👋 
 
-- 🌱 I’m currently learning Kotlin and mobile app development
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Crefi&show_icons=true&theme=dracula)
